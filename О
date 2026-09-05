@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Private Lunch for Two</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        background: #f6f2ec;
+        color: #292522;
+        font-family: Georgia, "Times New Roman", serif;
+    }
+
+    .menu {
+        max-width: 520px;
+        margin: auto;
+        padding: 55px 28px 60px;
+        text-align: center;
+    }
+
+    .top {
+        font-family: Arial, sans-serif;
+        font-size: 10px;
+        letter-spacing: 4px;
+        color: #8b7767;
+        text-transform: uppercase;
+    }
+
+    h1 {
+        font-size: 31px;
+        font-weight: normal;
+        letter-spacing: 2px;
+        margin: 18px 0 8px;
+    }
+
+    .date {
+        font-size: 14px;
+        font-style: italic;
+        color: #776b62;
+    }
+
+    .heart {
+        font-size: 25px;
+        margin: 28px 0;
+        color: #80695b;
+    }
+
+    hr {
+        border: 0;
+        border-top: 1px solid #d8cec3;
+        margin: 32px 0;
+    }
+
+    .section {
+        font-family: Arial, sans-serif;
+        font-size: 10px;
+        letter-spacing: 3px;
+        color: #8b7767;
+        margin-bottom: 20px;
+    }
+
+    .dish {
+        margin-bottom: 25px;
+    }
+
+    .dish-name {
+        font-size: 21px;
+        margin-bottom: 8px;
+    }
+
+    .description {
+        font-size: 14px;
+        line-height: 1.7;
+        color: #665d57;
+        max-width: 400px;
+        margin: auto;
+    }
+
+    .sauces {
+        margin-top: 12px;
+        font-size: 12px;
+        font-style: italic;
+        color: #8b7767;
+    }
+
+    .drinks {
+        font-size: 15px;
+        line-height: 2;
+    }
+
+    .chef-note {
+        font-size: 16px;
+        font-style: italic;
+        line-height: 1.8;
+        color: #574e48;
+    }
+
+    .footer {
+        margin-top: 35px;
+        font-family: Arial, sans-serif;
+        font-size: 9px;
+        letter-spacing: 3px;
+        color: #9a897b;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="menu">
+
+    <div class="top">
+        Private Dining · Astana
+    </div>
+
+    <h1>PRIVATE LUNCH FOR TWO</h1>
+
+    <div class="date">
+        05 September 2026
+    </div>
+
+    <div class="heart">♡</div>
+
+    <hr>
+
+    <div class="section">
+        STARTER
+    </div>
+
+    <div class="dish">
+        <div class="dish-name">
+            Golden Onion Rings
+        </div>
+
+        <div class="description">
+            Хрустящие луковые кольца
+            с нежным соусом Ranch.
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="section">
+        MAIN COURSE
+    </div>
+
+    <div class="dish">
+        <div class="dish-name">
+            Signature Cheeseburger
+        </div>
+
+        <div class="description">
+            Сочная говяжья котлета,
+            расплавленный сыр, свежий салат,
+            томаты и фирменный соус
+            в мягкой поджаренной булочке.
+        </div>
+    </div>
+
+    <div class="dish">
+        <div class="dish-name">
+            Golden Fries
+        </div>
+
+        <div class="description">
+            Золотистый хрустящий картофель фри
+            с лёгкой морской солью.
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="section">
+        CRISPY SIDE
+    </div>
+
+    <div class="dish">
+        <div class="dish-name">
+            Chicken Nuggets
+        </div>
+
+        <div class="description">
+            Нежное куриное филе
+            в хрустящей золотистой корочке.
+        </div>
+
+        <div class="sauces">
+            Ranch · Burger Sauce
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="section">
+        BEVERAGES
+    </div>
+
+    <div class="drinks">
+        Coca-Cola<br>
+        Coffee<br>
+        Tea<br>
+        Still Water
+    </div>
+
+    <hr>
+
+    <div class="section">
+        CHEF'S NOTE
+    </div>
+
+    <div class="chef-note">
+        «Я мог просто приготовить тебе обед.<br>
+        Но мне хотелось сделать<br>
+        из обычного дня маленькое свидание.»
+    </div>
+
+    <div class="heart">
+        ♥
+    </div>
+
+    <div class="description">
+        Enjoy your lunch, beautiful.
+    </div>
+
+    <div class="footer">
+        RESERVED ESPECIALLY FOR US
+    </div>
+
+</div>
+
+</body>
+</html>
